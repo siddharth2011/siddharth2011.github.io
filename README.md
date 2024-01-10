@@ -26,7 +26,7 @@
 
 ### Project and Research Work
 
-- Portfolio Website: Developed a personal portfolio that includes all my achievements and showcases my projects and skills as a software developer.
+- **Portfolio Website** : Developed a personal portfolio that includes all my achievements and showcases my projects and skills as a software developer.
 - TheUrbanSpoon - Open Source Cloud Kitchen Platform: Developed an open-source system tailored for restaurants to help them set up their online presence as a complete web page capable of placing orders, logistics and handling payments.
 - EventRight - Open Source Event & Invitation Platform: Created an event and invitation management platform which is a completely open-source product. The system is capable of handling multiple events, managing invitations and RSVPs, and
 handling guest logistics.
