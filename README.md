@@ -45,9 +45,9 @@ fee waiver and a monthly stipend for the semester.
 project award.
 
 ## Contact Information
-email: siddharthgoyal198@gmail.com
-phone: +17078713898
-linkedin: [Siddharth Goyal](https://www.linkedin.com/in/siddharth-goyal-8b1a4814b/)
+- Email: siddharthgoyal198@gmail.com
+- Phone: +17078713898
+- Linkedin: [Siddharth Goyal](https://www.linkedin.com/in/siddharth-goyal-8b1a4814b/)
 
 
 
