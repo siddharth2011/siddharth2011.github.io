@@ -1,4 +1,4 @@
- # Software Developer
+# Software Developer
 
 ### Education
 - M.S., Computer Science| _Arizona State University_ | (_Dec 2023_)  
