@@ -1,8 +1,8 @@
 # Software Developer
 
 ### Education
-- MS | Computer Science | Arizona State University | (_Jan 2022 - Dec 2023_) GPA: 4/4 
-- BTech | Computer Science| SRM Institute of Science and Technology |  (July 2017 - May 2021) GPA: 8.7/10
+- MS | _Computer Science_ | _Arizona State University_ | GPA: 4/4 (_Jan 2022 - Dec 2023_)  
+- BTech | _Computer Science_| _SRM Institute of Science and Technology_ |  GPA: 8.7/10 (_July 2017 - May 2021_) 
 
 ### Skills Summary
 • Languages: Python, C++, JAVA, SQL, JavaScript, HTML, CSS, MATLAB, Linux
