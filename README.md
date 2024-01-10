@@ -14,7 +14,7 @@
 ### Experience
 - Graduate Teaching Assistant - Software Validation Verification and Testing Aug 2022 - Jul 2023
 Arizona State University Tempe, Arizona, USA
- - Assisting Dr. Tuzmen in teaching, grading the assignments, and preparing and revamping teaching materials for
+   --Assisting Dr. Tuzmen in teaching, grading the assignments, and preparing and revamping teaching materials for
 a class of 125+ students for 2 consecutive terms.
  - Conducted weekly office hours to give guidance to grad students on various topics like Specification-based
 testing, and structural-based testing.
