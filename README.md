@@ -1,5 +1,10 @@
 # Software Developer
 
+## Contact Information
+email: your.email@example.com
+phone: +1234567890
+linkedin: https://www.linkedin.com/in/your-linkedin-profile
+
 ## Education
 - M.S., Computer Science| _Arizona State University_ | (_Dec 2023_)  
 - BTech, Computer Science | _SRM Institute of Science and Technology_ | (_May 2021_)
