@@ -1,17 +1,17 @@
 # Software Developer
 
-### Education
+## Education
 - M.S., Computer Science| _Arizona State University_ | (_Dec 2023_)  
 - BTech, Computer Science | _SRM Institute of Science and Technology_ | (_May 2021_)
 
-### Skills Summary
+## Skills Summary
 - Languages: Python, C++, JAVA, SQL, JavaScript, HTML, CSS, MATLAB, Linux
 - Frameworks and Libraries: Django, Flask, Pandas, Scikit-learn, TensorFlow, Keras, OpenCV, NumPy, MatplotLib
 - Technology: VS Code, Pycharm, Google Colab, Anaconda, Jupyter Notebook, GIT, Raspberry Pi, Slack, JIRA, Confluence
 - Platforms: Linux, AWS Cloud Services
 - Relevant Coursework: Database Management System, Python Programming, C++ Programming, Data Structures and Algorithm, Analysis of Algorithms, Deep Learning, Data Mining
 
-### Experience
+## Experience
 **Graduate Teaching Assistant - Software Validation Verification and Testing @ Arizona State University (_Aug 2022 - Jul 2023_)**
 - Assisting Dr. Tuzmen in teaching, grading the assignments, and preparing and revamping teaching materials for a class of 125+ students for 2 consecutive terms.
 - Conducted weekly office hours to give guidance to grad students on various topics like Specification-based testing, and structural-based testing.
@@ -24,7 +24,7 @@
 - Spearheaded the development of an autonomous road sign detection system, based on YOLO-v3. Was involved in data preprocessing and training the CNN model with our custom data
 - Successfully deployed the model on Raspberry Pi, demonstrating strong technical and project management skills
 
-### Project and Research Work
+## Project and Research Work
 
 - **Portfolio Website** : Developed a personal portfolio that includes all my achievements and showcases my projects and skills as a software developer.
 - **TheUrbanSpoon** - Open Source Cloud Kitchen Platform: Developed an open-source system tailored for restaurants to help them set up their online presence as a complete web page capable of placing orders, logistics and handling payments.
@@ -34,7 +34,7 @@ handling guest logistics.
 - **InstructABSA** : Developed a SOTA approach using instruction tuning for the aspect-based sentiment analysis task and also\ carried out in-depth analysis of instructions and comparative analysis with previous approaches.[[2]](https://aclanthology.org/2023.eacl-main.30/)
 - **NLP Model Benchmarking**: Created a benchmarking dataset to evaluate the performance of the large language models (LLM). Demonstrated the areas in which LLMs underperformed like non numerical, attribute comparison and time varying statements. Wrote a paper on the findings, which got accepted at EACL ‘23 conference. [[1]](https://arxiv.org/abs/2210.07471)
 
-### Leadership Experience and Awards
+## Leadership Experience and Awards
 
 - Guided an 8-member team in the completion of a class project focused on the detection of artificial obstacles by autonomous
 vehicles.
