@@ -1,10 +1,5 @@
 # Software Developer
 
-## Contact Information
-email: your.email@example.com
-phone: +1234567890
-linkedin: https://www.linkedin.com/in/your-linkedin-profile
-
 ## Education
 - M.S., Computer Science| _Arizona State University_ | (_Dec 2023_)  
 - BTech, Computer Science | _SRM Institute of Science and Technology_ | (_May 2021_)
@@ -48,6 +43,12 @@ the identification of Twitter bots.
 fee waiver and a monthly stipend for the semester.
 - Efficiently supervised a team of 7 members during my internship at IIT Kanpur and the team was honored with the 3rd best
 project award.
+
+## Contact Information
+email: siddharthgoyal198@gmail.com
+phone: +17078713898
+linkedin: [Siddharth Goyal](https://www.linkedin.com/in/siddharth-goyal-8b1a4814b/)
+
 
 
 
