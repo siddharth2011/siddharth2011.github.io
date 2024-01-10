@@ -1,8 +1,8 @@
 # Software Developer
 
 ### Education
-- MS CS | _Computer Science_ | _Arizona State University_ | (_Dec 2023_)  
-- BTech CS | _Computer Science_| _SRM Institute of Science and Technology_ |  (_May 2021_)
+- MS | _Computer Science_ | _Arizona State University_ | (_Dec 2023_)  
+- BTech | _Computer Science_| _SRM Institute of Science and Technology_ |  (_May 2021_)
 
 ### Skills Summary
 • Languages: Python, C++, JAVA, SQL, JavaScript, HTML, CSS, MATLAB, Linux
