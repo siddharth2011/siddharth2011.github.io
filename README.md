@@ -12,6 +12,12 @@
 - Relevant Coursework: Database Management System, Python Programming, C++ Programming, Data Structures and Algorithm, Analysis of Algorithms, Deep Learning, Data Mining
 
 ## Experience
+
+**Graduate Teaching Assistant - Software Validation Verification and Testing @ Arizona State University (_Aug 2022 - Jul 2023_)**
+- Integrated text-to-speech functionality into core AI search services.
+- Conducted extensive research and development to enhance the efficiency of text-to-speech models for scalable deployment.
+- Currently engaged in the implementation of RAG using Mixtral and Llamaindex technologies
+
 **Graduate Teaching Assistant - Software Validation Verification and Testing @ Arizona State University (_Aug 2022 - Jul 2023_)**
 - Assisted Dr. Tuzmen in teaching, grading the assignments, and preparing and revamping teaching materials for a class of 125+ students for 2 consecutive terms.
 - Conducted weekly office hours to give guidance to grad students on various topics like Specification-based testing, and structural-based testing.
@@ -25,13 +31,13 @@
 - Successfully deployed the model on Raspberry Pi, demonstrating strong technical and project management skills
 
 ## Project and Research Work
-
+- **InstructABSA** : Developed a SOTA approach using instruction tuning for the aspect-based sentiment analysis task and also carried out in-depth analysis of instructions and comparative analysis with previous approaches. Wrote a paper on the findings, which got accepted at NAACL ‘24 conference.[[2]](https://aclanthology.org/2023.eacl-main.30/)
+- **NLP Model Benchmarking**: Created a benchmarking dataset to evaluate the performance of the large language models (LLM). Demonstrated the areas in which LLMs underperformed like non numerical, attribute comparison and time varying statements. Wrote a paper on the findings, which got accepted at EACL ‘23 conference. [[1]](https://arxiv.org/abs/2210.07471)
 - **TheUrbanSpoon - Open Source Cloud Kitchen Platform**: Developed an open-source system tailored for restaurants to help them set up their online presence as a complete web page capable of placing orders, logistics and handling payments.
 - **EventRight - Open Source Event & Invitation Platform**: Created an event and invitation management platform which is a completely open-source product. The system is capable of handling multiple events, managing invitations and RSVPs, and
 handling guest logistics.
 - **Learnr - Open Source Quiz Generation Platform**: Developed an interactive quiz platform that generates quizzes from custom textbook PDFs that are uploaded into the system. The software also has a dashboard that tracks the progress of each user using default or custom KPIs.
-- **InstructABSA** : Developed a SOTA approach using instruction tuning for the aspect-based sentiment analysis task and also\ carried out in-depth analysis of instructions and comparative analysis with previous approaches.[[2]](https://aclanthology.org/2023.eacl-main.30/)
-- **NLP Model Benchmarking**: Created a benchmarking dataset to evaluate the performance of the large language models (LLM). Demonstrated the areas in which LLMs underperformed like non numerical, attribute comparison and time varying statements. Wrote a paper on the findings, which got accepted at EACL ‘23 conference. [[1]](https://arxiv.org/abs/2210.07471)
+
 
 ## Leadership Experience and Awards
 
