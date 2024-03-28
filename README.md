@@ -13,7 +13,7 @@
 
 ## Experience
 
-**Graduate Teaching Assistant - Software Validation Verification and Testing @ Arizona State University (_Aug 2022 - Jul 2023_)**
+**Backend Developer (ML) @ W4m.ai (_Feb 2024 - Present_)**
 - Integrated text-to-speech functionality into core AI search services.
 - Conducted extensive research and development to enhance the efficiency of text-to-speech models for scalable deployment.
 - Currently engaged in the implementation of RAG using Mixtral and Llamaindex technologies
