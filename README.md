@@ -13,10 +13,13 @@
 
 ## Experience
 
-**Backend Developer (ML) @ W4m.ai (_Feb 2024 - Present_)**
-- Integrated text-to-speech functionality into core AI search services.
-- Conducted extensive research and development to enhance the efficiency of text-to-speech models for scalable deployment.
-- Currently engaged in the implementation of RAG using Mixtral and Llamaindex technologies
+**Software Engineer (Backend) - ML @ W4m.ai (_Feb 2024 - Present_)**
+- Conducted extensive research and development to enhance the efficiency of text-to-speech models for scalable
+deployment, successfully integrating this functionality into core AI search services.
+- Engaged in the implementation of RAG using Mixtral and Llamaindex technologies, working on language
+models such as Llama-3, and conducting extensive testing across multiple domains.
+- Contributed to the development of a website for Arizona State University’s EPICS program, utilizing React for
+the front-end and FastAPI for the back-end
 
 **Graduate Teaching Assistant - Software Validation Verification and Testing @ Arizona State University (_Aug 2022 - Jul 2023_)**
 - Assisted Dr. Tuzmen in teaching, grading the assignments, and preparing and revamping teaching materials for a class of 125+ students for 2 consecutive terms.
