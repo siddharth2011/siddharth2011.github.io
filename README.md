@@ -39,7 +39,6 @@ the front-end and FastAPI for the back-end
 - **TheUrbanSpoon - Open Source Cloud Kitchen Platform**: Developed an open-source system tailored for restaurants to help them set up their online presence as a complete web page capable of placing orders, logistics and handling payments.
 - **EventRight - Open Source Event & Invitation Platform**: Created an event and invitation management platform which is a completely open-source product. The system is capable of handling multiple events, managing invitations and RSVPs, and
 handling guest logistics.
-- **Learnr - Open Source Quiz Generation Platform**: Developed an interactive quiz platform that generates quizzes from custom textbook PDFs that are uploaded into the system. The software also has a dashboard that tracks the progress of each user using default or custom KPIs.
 
 
 ## Leadership Experience and Awards
